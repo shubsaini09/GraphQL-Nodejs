@@ -1,4 +1,4 @@
-# GraphQL-With-Nodejs
+# GraphQL-Nodejs
 
 ## Pre-requisites
 
