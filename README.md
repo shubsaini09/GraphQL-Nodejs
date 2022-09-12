@@ -10,7 +10,7 @@
 1) Clone the repo https://github.com/shubsaini09/GraphQL-With-Nodejs.git
 2) cd GraphQL-With-Nodejs
 3) npm install
-4) node src/crdu.js
+4) node src/crud.js
 5) Open browser and enter the url http://localhost:4000/
 
 ## CRUD Operation Queries
