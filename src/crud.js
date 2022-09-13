@@ -12,7 +12,7 @@ let links = [{
 
 const resolvers = {
     Query: {
-        info: () => `This is the API of a Hackernews Clone`,
+        info: () => `This is the API of a tutorial - CRUD operations using GraphQL and Nodejs`,
         feed: () => links,
     },
     Mutation: {
